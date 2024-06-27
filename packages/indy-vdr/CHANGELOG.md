@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.7
+
+### Patch Changes
+
+- Updated dependencies [1044c9d]
+  - @credo-ts/anoncreds@0.5.7
+  - @credo-ts/core@0.5.7
+
 ## 0.5.6
 
 ### Patch Changes

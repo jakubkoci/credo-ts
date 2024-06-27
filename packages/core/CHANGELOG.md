@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.7
+
+### Patch Changes
+
+- 1044c9d: make credential_preview optional on V2CredentialOfferMessage
+
 ## 0.5.6
 
 ### Patch Changes
